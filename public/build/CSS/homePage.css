@@ -1,0 +1,131 @@
+.mainblock {
+    background-color: #F5F5F5;
+}
+
+.welcome {
+    color: white;
+    font-size: 2.8em;
+}
+
+.Simpleo-logodeux {
+    width: 27%;
+}
+
+.ourPrices {
+    margin: 10px 10px 0px 10px;
+    background-color: white;
+}
+
+.price {
+    font-size: 500%;
+}
+
+.table1 {
+    text-align: center;
+    padding-right: 180px;
+    padding-left: 180px;
+}
+
+.table2 {
+    border-spacing: 10px;
+}
+
+.blockthird {
+    text-align: center;
+    background-color: #F5F5F5;
+}
+
+.blockthirdson {
+    background-color: white;
+}
+
+td {
+    width: 10%;
+}
+
+.tdblock {
+    padding: 20px 20px 20px 20px;
+    position: relative;
+}
+
+.worder {
+    font-size: 80%;
+}
+
+.photoScreen {
+    width: 100%;
+}
+
+.titretab {
+    color: rebeccapurple;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+}
+
+/*.divicon{
+    position: absolute;
+    top: 2em;
+    left: 14em;
+}
+Pour alligner les icon*/
+
+.iconsize {
+    width: 50px;
+}
+
+.who {
+    margin: 0px 8px 10px 8px;
+}
+
+.photo-test {
+    width: 100%;
+    height: 500px;
+}
+
+
+.blocImage {
+    position: relative;
+    width: 100%;
+}
+
+
+.blocImage h1 {
+    position: absolute;
+    z-index: 2;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    top: 40%;
+    width: 55%;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+
+.blocImage h2 {
+    position: absolute;
+    z-index: 2;
+    font-size: 200%;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    left: 60px;
+    top: 0.2em;
+}
+
+.textWho {
+    font-size: 200%;
+    color: white;
+}
+
+.hoverOp:hover {
+    opacity: 0.4;
+    transition-duration: 0.7s;
+}
+
+.blocImage h2:hover {
+    text-decoration: underline;
+}
+
+.blocImage h1:hover {
+    text-decoration: underline;
+}
+
